@@ -9,7 +9,7 @@ In this project, we analyzed the interactions that users have with articles on t
   * user-item-interactions.csv
 
 ## Components
-  (The whole work is save in 'Recommendations_with_IBM.ipynb'.)
+  (The whole work is save as 'Recommendations_with_IBM.ipynb'.)
 
   * Basic Exploratory Data Analysis
 
